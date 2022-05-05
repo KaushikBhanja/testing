@@ -5,7 +5,7 @@
 // ======================================================================
 // bowlingScore
 //
-// (normally one would want to separate the implemenation on of the
+// (normally one would want to separate the implemenation on of the,
 // function / class from its tests, but to start its easiest to have it
 // all together.
 
